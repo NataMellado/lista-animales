@@ -1,0 +1,13 @@
+form {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.datos-agregados {
+    display: none;
+}
+
+#resultado ul {
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
